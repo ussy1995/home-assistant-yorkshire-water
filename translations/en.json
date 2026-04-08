@@ -1,0 +1,24 @@
+{
+  "title": "Yorkshire Water",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Yorkshire Water",
+        "description": "Enter your Yorkshire Water online account credentials. Your account reference number is printed on your bill (numbers only, no spaces — e.g. 541729360000000).",
+        "data": {
+          "email": "Email address",
+          "password": "Password",
+          "account_reference": "Account reference number"
+        }
+      }
+    },
+    "error": {
+      "auth_error": "Invalid email or password.",
+      "network_error": "Unable to connect to Yorkshire Water. Check your internet connection and try again.",
+      "cannot_discover": "Could not find a smart meter for this account. Check your account reference number and try again."
+    },
+    "abort": {
+      "already_configured": "Yorkshire Water is already configured."
+    }
+  }
+}

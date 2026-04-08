@@ -1,0 +1,12 @@
+{
+  "domain": "yorkshire_water",
+  "name": "Yorkshire Water",
+  "documentation": "https://github.com/ussy1995/home-assistant-yorkshire-water",
+  "issue_tracker": "https://github.com/ussy1995/home-assistant-yorkshire-water/issues",
+  "codeowners": ["@ussy1995"],
+  "config_flow": true,
+  "requirements": [],
+  "version": "1.0.0",
+  "iot_class": "cloud_polling",
+  "dependencies": []
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Yorkshire Water",
+  "domain": "yorkshire_water",
+  "iot_class": "cloud_polling",
+  "homeassistant": "2024.6.0",
+  "render_readme": true,
+  "documentation": "https://github.com/ussy1995/home-assistant-yorkshire-water",
+  "issue_tracker": "https://github.com/ussy1995/home-assistant-yorkshire-water/issues"
+}
